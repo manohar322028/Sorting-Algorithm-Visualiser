@@ -1,0 +1,4 @@
+K:\5th sem\Graphics project\Pathfinder\Debug\Pathfinder.exe
+K:\5th sem\Graphics project\Pathfinder\Debug\Pathfinder.pdb
+K:\5th sem\Graphics project\Sorting algorithms\Debug\Pathfinder.exe
+K:\5th sem\Graphics project\Sorting algorithms\Debug\Pathfinder.pdb
